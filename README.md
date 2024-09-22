@@ -7,4 +7,4 @@ Technology has been an interest of mine my entire life and it was an easy choice
 
 ## Links
 * [LinkedIn](https://www.linkedin.com/in/david-hall-51014413b/)
-* [Résumé](http://www.davidhall.se/)
+* [Résumé](https://david98hall.github.io/cv/)
