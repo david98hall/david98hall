@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5500ff,100:006aff&height=256&section=header&text=David%20Hall&desc=Software%20Engineer%20with%20M.Sc.%20Data%20science%20and%20AI,%20B.Sc.%20Software%20Engineering&animation=fadeIn&fontAlignY=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5500ff,100:006aff&height=256&section=header&text=David%20Hall&desc=Senior%20Software%20Engineer%20with%20M.Sc.%20Data%20science%20and%20AI,%20B.Sc.%20Software%20Engineering&animation=fadeIn&fontAlignY=40&fontColor=ffffff"/>
 </p>
 
 ## Who Am I?
