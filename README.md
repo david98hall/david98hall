@@ -3,7 +3,7 @@
 </p>
 
 ## Who Am I?
-Technology has been an interest of mine my entire life and it was an easy choice to choose to study at Chalmers University of Technology to become a civilingenjör (Swedish degree) in Software Engineering (Informationsteknik). I taught myself to code when I was a teenager and immediately realized it was my calling. After completing my Bachelor's in Software Engineering, I decided to pursue a Master's degree in Data science and AI. I now work full-time as a software engineer in Gothenburg.
+A happily married man, senior software engineer, with a soft spot for tennis, video games, and Swedish fika.
 
 ## Links
 * [LinkedIn](https://www.linkedin.com/in/david-hall-51014413b/)
